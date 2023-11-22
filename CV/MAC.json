@@ -223,6 +223,20 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Con un ambiente de trabajo ameno, contacto cercaco con los compañeros. Proyectos retadores, interesantes y que usen las últimas tecnologías/herramientas. Poder aprender y crecer y no estancarse."
   }
 }

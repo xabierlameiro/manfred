@@ -225,11 +225,19 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Gatsby",
+        "type": "technology"
+      },
+      {
         "name": "NextJS",
         "type": "technology"
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TestingLibrary",
         "type": "technology"
       },
       {

@@ -61,12 +61,6 @@
       },
       {
         "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Enzyme",
           "type": "technology"
         }
@@ -175,12 +169,6 @@
       ],
       "contactMails": [
         "xabier.lameiro@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "603018268",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {

@@ -166,9 +166,6 @@
           "URL": "https://www.linkedin.com/in/xlameiro/",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "xabier.lameiro@gmail.com"
       ]
     },
     "preferences": {
@@ -192,7 +189,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {

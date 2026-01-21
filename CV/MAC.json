@@ -200,6 +200,10 @@
           "name": "jQuery",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Software Architect"
       ]
     },
     "status": "searchingActively",
